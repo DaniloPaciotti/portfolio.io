@@ -88,4 +88,3 @@ A degree in product design covering creative and technical product development, 
 
 **ISO Management Diploma (_Jan 2022_)**
 ISO 21500 and ISO 21502 Project, Programme and Portfolio Management, attested by Danish Standards.
-### 
